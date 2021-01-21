@@ -1,0 +1,1 @@
+This project examines at the relationship between the median income in each neighborhood of Manhattan and the price of Airbnb listings in the same area. It also looks at poverty rates to evaluate possible gentrification in the borough.
